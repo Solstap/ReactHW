@@ -2,9 +2,9 @@ import React from "react";
 import PetCard from "./PetCard";
 import "../../App.css";
 import JerryImage from "../../assets/Jerry.avif";
-import FloofyImage from "../../assets/Floofy.jpg";
+import FloofyImage from "../../assets/floofy.jpg";
 import JamieImage from "../../assets/Jamie.avif";
-import ScoobyImage from "../../assets/Scooby.jpg";
+import ScoobyImage from "../../assets/scooby.jpg";
 
 
 const pets =[
